@@ -123,7 +123,12 @@ body {
   }
   
   #balls {
+<<<<<<< HEAD
      position: fixed;  bottom: 0;
+=======
+      position: fixed;
+      bottom: 0;
+>>>>>>> f62a1daa4a9c8736c5a48a8d35ee3723afeaf9b1
       right: 0;
   }
   
